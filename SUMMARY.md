@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [算法笔记](README.md)
 
